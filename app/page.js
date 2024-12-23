@@ -1,12 +1,27 @@
-import { Header, Hero, LogoScroll, HowItWorks } from "./components";
+import {
+  Header,
+  Hero,
+  LogoScroll,
+  HowItWorks,
+  UseCases,
+  WhyHappyRobot,
+  Integration,
+  Testimonials,
+  Footer,
+} from "./components";
 
 export default function Home() {
   return (
-    <main className="min-h-screen">
+    <main>
       <Header />
       <Hero />
       <LogoScroll />
       <HowItWorks />
+      <UseCases />
+      <WhyHappyRobot />
+      <Integration />
+      <Testimonials />
+      <Footer />
     </main>
   );
 }

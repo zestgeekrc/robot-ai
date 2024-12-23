@@ -2,3 +2,8 @@ export { Header } from "./Header";
 export { Hero } from "./Hero";
 export { LogoScroll } from "./LogoScroll";
 export { HowItWorks } from "./HowItWorks";
+export { UseCases } from "./UseCases";
+export { WhyHappyRobot } from "./WhyHappyRobot";
+export { Integration } from "./Integration";
+export { Testimonials } from "./Testimonials";
+export { Footer } from "./Footer";

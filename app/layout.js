@@ -12,8 +12,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Robot AI",
-  description: "Robot AI",
+  title: "SuperVoice",
+  description: "AI Voice Calling",
 };
 
 export default function RootLayout({ children }) {

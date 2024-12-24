@@ -13,14 +13,14 @@ export function Footer() {
             <div className="flex items-center gap-4">
               <Image
                 src="/images/logo.svg"
-                alt="HappyRobot Logo"
+                alt="SuperVoice Logo"
                 width={40}
                 height={40}
               />
-              <span className="text-xl font-medium">HappyRobot</span>
+              <span className="text-xl font-medium">SuperVoice</span>
             </div>
             <p className="text-gray-600 mt-2">
-              AI communication. Built for logistics.
+              AI communication for business teams
             </p>
           </div>
 
@@ -38,7 +38,7 @@ export function Footer() {
         {/* Links and Copyright */}
         <div className="flex flex-col md:flex-row justify-between items-center border-t border-gray-200 pt-8">
           <div className="text-sm text-gray-600 mb-4 md:mb-0">
-            © {currentYear} HappyRobot Inc.
+            © {currentYear} SuperVoice Inc.
             <span className="mx-2">·</span>
             <Link href="#" className="hover:text-gray-900">
               Terms of service

@@ -4,21 +4,21 @@ export function Testimonials() {
   const testimonials = [
     {
       quote:
-        "HappyRobot is one of the best partners we are working with right now. They have been committed to our needs with a great attention to detail. We will continue to expand HappyRobot into additional use cases across our brokerage and other companies as their offerings grow. We are looking forward to a long partnership with them.",
+        "SuperVoice is one of the best partners we are working with right now. They have been committed to our needs with a great attention to detail. We will continue to expand SuperVoice into additional use cases across our brokerage and other companies as their offerings grow. We are looking forward to a long partnership with them.",
       author: "Benjamin Mayo",
       role: "IT Director | Syfan Logistics",
       avatar: "/images/avatar.jpeg",
     },
     {
       quote:
-        "We've completed over 300,000 AI driven calls in 2024 with HappyRobot. Next year, we project to do 3-5x that amount and continue to free up employees to focus on more meaningful work. In the modern era, people should use the phone to build relationships, not just to exchange data.",
+        "We've completed over 300,000 AI driven calls in 2024 with SuperVoice. Next year, we project to do 3-5x that amount and continue to free up employees to focus on more meaningful work. In the modern era, people should use the phone to build relationships, not just to exchange data.",
       author: "Andrew Smith",
       role: "SVP | Circle Logistics",
       avatar: "/images/avatar.jpeg",
     },
     {
       quote:
-        "The implementation was seamless and the results were immediate. Our team can now focus on strategic tasks while HappyRobot handles routine communications efficiently.",
+        "The implementation was seamless and the results were immediate. Our team can now focus on strategic tasks while SuperVoice handles routine communications efficiently.",
       author: "Sarah Johnson",
       role: "Operations Director | Global Transport",
       avatar: "/images/avatar.jpeg",

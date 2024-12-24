@@ -9,11 +9,11 @@ export function Hero() {
           <h1 className="text-[56px] leading-tight font-medium text-gray-900 mb-6">
             AI communication.
             <br />
-            Built for logistics.
+            for business teams
           </h1>
           <p className="text-xl text-gray-600 mb-8">
             Automate communication across channels with AI workers that
-            integrate with your systems, manage conversations, & log data.
+            integrate with your systems, manage conversations, and log data.
           </p>
           <div className="flex items-center gap-4">
             <Link
